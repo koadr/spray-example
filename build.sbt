@@ -1,5 +1,7 @@
 organization  := "com.example"
 
+name := "spray-example"
+
 version       := "0.1"
 
 scalaVersion  := "2.10.3"
