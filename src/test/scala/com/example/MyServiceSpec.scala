@@ -4,7 +4,10 @@ import org.specs2.mutable.Specification
 import spray.testkit.Specs2RouteTest
 import spray.http._
 import StatusCodes._
+import org.junit.runner.RunWith
+import org.junit.runners.JUnit4
 
+@RunWith(classOf[JUnit4])
 class MyServiceSpec extends Specification with Specs2RouteTest with MyService {
   def actorRefFactory = system
   
