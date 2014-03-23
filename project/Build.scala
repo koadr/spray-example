@@ -5,7 +5,7 @@ import spray.revolver.RevolverPlugin.Revolver
 
 object ApplicationBuild extends Build {
   val appName         = "spray-example"
-  val appVersion      = "0.0.1-SNAPSHOT"
+  val appVersion      = "0.1-SNAPSHOT"
 
 
   val root = Project(appName, file("."))
