@@ -5,13 +5,12 @@ import spray.revolver.RevolverPlugin.Revolver
 
 object ApplicationBuild extends Build {
   val appName         = "spray-example"
-  val appVersion      = "0.1-SNAPSHOT"
+  val appVersion      = "0.0.1-SNAPSHOT"
 
 
   val root = Project(appName, file("."))
     .settings(commonSettings:_*)
     .settings(
-      name <<= (name, version){(n,v) => n + "-" + v},
       version := appVersion,
       parallelExecution in Test := false,
       testOptions in Test += Tests.Argument("junitxml"),
@@ -41,6 +40,8 @@ object ApplicationBuild extends Build {
   .settings(Revolver.settings :_*)
   .settings(WebDav.globalSettings : _*)
   .settings(net.virtualvoid.sbt.cross.CrossPlugin.crossBuildingSettings: _*)
+  .settings(storeVersionTask)
+
 
   lazy val commonSettings = Seq(
     organization := "io.bankroll",
@@ -50,4 +51,12 @@ object ApplicationBuild extends Build {
     )
   )
 
+  lazy val storeVersion = TaskKey[File]("app-version") in Compile
+
+  lazy val storeVersionTask = storeVersion <<= (baseDirectory, streams, version) map {(baseDir,st, v) =>
+    val out = baseDir / "current_version"
+    IO.write(out, v)
+    st.log.info("Storing current application version( "+ v + " ) in " + out.getPath )
+    out
+  }
 }
