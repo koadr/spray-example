@@ -10,6 +10,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pre-commit.sh" afterPath="$PROJECT_DIR$/pre-commit.sh" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spray-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -402,12 +403,12 @@
       <workItem from="1395539435022" duration="1994000" />
       <workItem from="1395543321927" duration="3944000" />
       <workItem from="1395557316213" duration="8820000" />
-      <workItem from="1395589016743" duration="1801000" />
+      <workItem from="1395589016743" duration="1993000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16559000" />
+    <option name="totallyTimeSpent" value="16751000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="22" width="1280" height="1350" extended-state="0" />

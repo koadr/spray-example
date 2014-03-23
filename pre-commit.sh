@@ -1,8 +1,8 @@
 #!/bin/sh
 
-sbt app_version
+sbt app-version
 
-if [ $? -eq 0 ];
+if [ $? -ne 0 ];
 then
     echo "Could not store current_version file."
     exit 1
