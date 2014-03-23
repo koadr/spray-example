@@ -7,5 +7,7 @@ then
     echo "Could not store current_version file."
     exit 1
 else
+    BASE_DIR=$(pwd -P)
+    git add ${BASE_DIR}/current_version
     exit 0
 fi

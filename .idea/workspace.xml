@@ -86,7 +86,16 @@
       <file leaf-file-name="pre-commit.sh" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pre-commit.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="8" selection-start="19" selection-end="19" vertical-scroll-proportion="0.024390243" vertical-offset="0" max-vertical-offset="1230">
+            <state line="12" column="23" selection-start="191" selection-end="191" vertical-scroll-proportion="0.14634146" vertical-offset="0" max-vertical-offset="1230">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="current_version" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/current_version">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="90">
               <folding />
             </state>
           </provider>
@@ -403,12 +412,12 @@
       <workItem from="1395539435022" duration="1994000" />
       <workItem from="1395543321927" duration="3944000" />
       <workItem from="1395557316213" duration="8820000" />
-      <workItem from="1395589016743" duration="1993000" />
+      <workItem from="1395589016743" duration="2550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16751000" />
+    <option name="totallyTimeSpent" value="17308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="22" width="1280" height="1350" extended-state="0" />
@@ -585,9 +594,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/current_version">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1230">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pre-commit.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="8" selection-start="19" selection-end="19" vertical-scroll-proportion="0.024390243" vertical-offset="0" max-vertical-offset="1230">
+        <state line="12" column="23" selection-start="191" selection-end="191" vertical-scroll-proportion="0.14634146" vertical-offset="0" max-vertical-offset="1230">
           <folding />
         </state>
       </provider>
