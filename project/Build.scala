@@ -5,12 +5,13 @@ import spray.revolver.RevolverPlugin.Revolver
 
 object ApplicationBuild extends Build {
   val appName         = "spray-example"
-  val appVersion      = "0.1-SNAPSHOT"
+  val appVersion      = "0.0.1-SNAPSHOT"
 
 
   val root = Project(appName, file("."))
     .settings(commonSettings:_*)
     .settings(
+      name <<= (name, version){(n,v) => n + "-" + v},
       version := appVersion,
       parallelExecution in Test := false,
       testOptions in Test += Tests.Argument("junitxml"),
@@ -39,10 +40,7 @@ object ApplicationBuild extends Build {
     )
   .settings(Revolver.settings :_*)
   .settings(WebDav.globalSettings : _*)
-
-  // Set the version as the system property
-  System.setProperty("APP_VERSION", appVersion)
-  
+  .settings(net.virtualvoid.sbt.cross.CrossPlugin.crossBuildingSettings: _*)
 
   lazy val commonSettings = Seq(
     organization := "io.bankroll",

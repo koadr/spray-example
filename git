@@ -1,0 +1,6 @@
+#!/bin/sh
+
+APP_VERSION=$(sbt name | awk '/[info] spray-example-([0-9])/ {print substr($6,15)}')
+echo $APP_VERSION > current_version
+git "$@"
+exit 0
