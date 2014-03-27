@@ -8,6 +8,6 @@ then
     exit 1
 else
     BASE_DIR=$(pwd -P)
-    git add ${BASE_DIR}/current_version
+    git add ${BASE_DIR}/
     exit 0
 fi
