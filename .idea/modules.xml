@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/spray-example.iml" filepath="$PROJECT_DIR$/.idea_modules/spray-example.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example*0.1-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example*0.1-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example*0.1-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example*0.1-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.0.1-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.0.1-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.0.1-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.0.1-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.1-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.1-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.1-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.1-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.2-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.2-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-0.2-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-0.2-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea_modules/spray-example-build.iml" filepath="$PROJECT_DIR$/.idea_modules/spray-example-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-null.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-null.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-null-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-null-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example0.1-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example0.1-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example0.1-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example0.1-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example@0.1-SNAPSHOT.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example@0.1-SNAPSHOT.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example@0.1-SNAPSHOT-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example@0.1-SNAPSHOT-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-examplenull.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-examplenull.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-examplenull-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-examplenull-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/spray-example-build.iml" filepath="$PROJECT_DIR$/.idea/modules/spray-example-build.iml" />
     </modules>
   </component>
 </project>

@@ -3,6 +3,7 @@
   <component name="ScalaSbtSettings">
     <option name="linkedExternalProjectsSettings">
       <SbtProjectSettings>
+        <option name="createEmptyContentRootDirectories" value="true" />
         <option name="externalProjectPath" value="$USER_HOME$/Documents/spray-cloudbees" />
         <option name="useAutoImport" value="true" />
       </SbtProjectSettings>
