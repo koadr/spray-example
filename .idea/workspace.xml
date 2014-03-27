@@ -2,27 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9c60864-7cf0-456e-9fca-daa7172e313e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/spray-cloudbees/current_dev_version" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/spray-cloudbees/current_prod_version" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/spray-cloudbees/previous_dev_version" />
-      <change type="NEW" beforePath="" afterPath="$USER_HOME$/Documents/spray-cloudbees/previous_prod_version" />
-      <change type="DELETED" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea_modules/spray-example-build.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea_modules/spray-example.iml" afterPath="" />
-      <change type="DELETED" beforePath="$USER_HOME$/Documents/spray-cloudbees/current_version" afterPath="" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.history" afterPath="$USER_HOME$/Documents/spray-cloudbees/.history" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/src/main/scala/com/example/Boot.scala" afterPath="$USER_HOME$/Documents/spray-cloudbees/src/main/scala/com/example/Boot.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/project/Build.scala" afterPath="$USER_HOME$/Documents/spray-cloudbees/project/Build.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Build.scala" afterPath="$PROJECT_DIR$/project/Build.scala" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/libraries/SBT__org_scala_lang_scala_library_2_10_3.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/libraries/SBT__org_scala_lang_scala_library_2_10_3.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/project/build.properties" afterPath="$USER_HOME$/Documents/spray-cloudbees/project/build.properties" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/misc.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/project/plugins.sbt" afterPath="$USER_HOME$/Documents/spray-cloudbees/project/plugins.sbt" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/copyright/profiles_settings.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/copyright/profiles_settings.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/sbt.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/sbt.xml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules/spray-example-build.iml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules/spray-example-build.iml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules/spray-example.iml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/modules/spray-example.iml" />
-      <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/vcs.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" />
     </list>
     <ignored path="spray-example.iws" />
@@ -112,7 +93,7 @@
         <entry file="file://$PROJECT_DIR$/project/Build.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.13414635" vertical-offset="0" max-vertical-offset="1335">
-              <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -492,12 +473,12 @@
       <changelist id="f9c60864-7cf0-456e-9fca-daa7172e313e" name="Default" comment="" />
       <created>1395713726348</created>
       <updated>1395713726348</updated>
-      <workItem from="1395713731696" duration="11141000" />
+      <workItem from="1395713731696" duration="11345000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11141000" />
+    <option name="totallyTimeSpent" value="11345000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="22" width="1280" height="1350" extended-state="0" />
@@ -614,7 +595,7 @@
     <entry file="file://$PROJECT_DIR$/project/Build.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13414635" vertical-offset="0" max-vertical-offset="1335">
-          <caret line="11" column="57" selection-start-line="11" selection-start-column="57" selection-end-line="11" selection-end-column="57" />
+          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>
