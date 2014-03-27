@@ -5,6 +5,7 @@
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/project/Build.scala" afterPath="$USER_HOME$/Documents/spray-cloudbees/project/Build.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project/Build.scala" afterPath="$PROJECT_DIR$/project/Build.scala" />
       <change type="MODIFICATION" beforePath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" afterPath="$USER_HOME$/Documents/spray-cloudbees/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="spray-example.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,7 +94,7 @@
         <entry file="file://$PROJECT_DIR$/project/Build.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.13414635" vertical-offset="0" max-vertical-offset="1335">
-              <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+              <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
               <folding>
                 <element signature="e#0#12#0" expanded="true" />
               </folding>
@@ -224,20 +225,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="spray-cloudbees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spray-example" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="spray-cloudbees" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -473,12 +460,12 @@
       <changelist id="f9c60864-7cf0-456e-9fca-daa7172e313e" name="Default" comment="" />
       <created>1395713726348</created>
       <updated>1395713726348</updated>
-      <workItem from="1395713731696" duration="11345000" />
+      <workItem from="1395713731696" duration="11693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11345000" />
+    <option name="totallyTimeSpent" value="11693000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1280" y="22" width="1280" height="1350" extended-state="0" />
@@ -595,7 +582,7 @@
     <entry file="file://$PROJECT_DIR$/project/Build.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.13414635" vertical-offset="0" max-vertical-offset="1335">
-          <caret line="11" column="46" selection-start-line="11" selection-start-column="46" selection-end-line="11" selection-end-column="46" />
+          <caret line="11" column="59" selection-start-line="11" selection-start-column="59" selection-end-line="11" selection-end-column="59" />
           <folding>
             <element signature="e#0#12#0" expanded="true" />
           </folding>

@@ -9,7 +9,7 @@ object ApplicationBuild extends Build {
   val aVersion        = "0.0.6"
   val sVersion        = "2.10.3"
   val sMVersion       = "2.10"
-  val env             = if (aVersion.split("\\.").size == 2) "dev" else "prod"
+  val env             = if (aVersion.split("\\.").size == 3) "dev" else "prod"
   val org             = "io.bankroll"
   val artifact        =  appName + "-" + env + "-" + aVersion
 
